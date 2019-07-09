@@ -1,0 +1,9 @@
+Hello from Node JS
+
+
+1. DJango
+Ans : 
+
+2. Which are the servers used in Django framework ? 
+Ans : There are many server are used in Django framework.
+Apache , Nginx, WSGI, Cherokee
